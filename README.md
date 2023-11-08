@@ -3,9 +3,9 @@
 Developed web application with spring for the following requirements:
 -----------------------------------------------------------------
 
-    👤 Login - Existing User
-    👥 Register - New User
-    🏠 Home - User Details
+    👤 Login - Existing Student
+    👥 Register - New Student
+    🏠 Home - Student Details
  
 -> '💻-Java, JSP, XML, Bootstrap, HTML, Spring' for coding.
 
@@ -14,7 +14,7 @@ Developed web application with spring for the following requirements:
 Tables used for each sections:
 -----------------------------
 
-    1. "🗃️-user table"  for storing user data.
+    1. "🗃️-student table"  for storing user data.
  
 Steps used to build this application:-
 -----------------------------------------------------------
